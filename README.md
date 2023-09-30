@@ -2,7 +2,7 @@
 
 Detailed explanations to the coding interview questions in CTCI. The solutions are written in Python 3.
 
-**If you find this useful, a Github star would be much appreciated!!**  ⭐ ⭐ ⭐ 
+**If you find this useful, a Github star would be much appreciated!!**  ⭐
 
 ## Arrays and Strings
 |Problem Number | Problem Name | Status|
